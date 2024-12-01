@@ -9,7 +9,7 @@ jm_albums = '393543'
 '''
 
 # 单独下载章节
-jm_photos = '''
+jm_photos = ''
 
 
 
